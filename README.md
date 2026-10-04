@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm ashflamer 👋</h1><p align="center"> <em>I build developer tools — the small, sharp kind that fix one annoying thing properly.</em> </p><p align="center"> <a href="https://github.com/ashflamer?tab=repositories"> <img src="https://img.shields.io/badge/-Projects-0d1117?style=flat-square&logo=github&logoColor=white" alt="Projects"> </a> <!-- Add your links back by replacing the two placeholders and deleting these comment markers: <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"> </a> --> </p>
-🔭 What I'm building
+🔭 What I'm building\n
 Project	What it does	Stack
 pyvulncheck	Reachability-based CVE triage. Not "is a vulnerable version installed?" but "does a call path exist from my code to the vulnerable function?" PyPI advisories ship no symbol data, so it reconstructs it from each advisory's fix commit.	Python · zero dependencies
 loglens	Drop in a log file, get answers. Auto-detects the format, collapses 4,000 lines into 12 patterns, flags the window where things broke.	FastAPI · React · TypeScript
